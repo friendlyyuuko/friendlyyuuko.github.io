@@ -1,0 +1,26 @@
+.webheader {
+	margin-top: -0.4em;
+	margin-bottom: -0.5em;
+	font-size: 18px;
+	font-family: "Tahoma", "Arial", "Segoe UI";
+}
+
+.small-footnote {
+	margin-top: -2.85em;
+	margin-bottom: -2.85em;
+	font-size: 10px;
+	font-weight: normal;
+	text-align: left;
+	font-family: "Arial", "Tahoma", "Roman";
+}
+
+p.singlespace {
+	margin-bottom: 0em;
+	margin-top: 0em;
+}
+
+.font-generic {
+	font-size: 14px;
+	font-weight: normal;
+	font-family: "Arial", "Tahoma", "Roman";
+}
