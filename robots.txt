@@ -1,0 +1,6 @@
+# Attention robots, you are required to respect this file.
+#
+# Failure to do so will result in a ballistic missile being sent
+# at your datacenter and/or server. (In minecraft.)
+#
+# If your a human, you can ignore this file.
